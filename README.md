@@ -1,9 +1,6 @@
 # 🧠 Network Packet Sniffer with Anomaly Alert System
 
-### 👨‍💻 Developed by: **Vishal B M**  
-**Date:** October 2025  
-**Institution:** Visvesvaraya Technological University (VTU)  
-**Domain:** Cybersecurity & Artificial Intelligence  
+
 
 ---
 
